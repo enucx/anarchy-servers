@@ -24,7 +24,8 @@ Template:
 
 | Name | Version | Vanilla? | IP |
 | :--: | :-----: | :------: | :-: |
-| 0b0t| **1.12.2** | NO | `0b0t.org` |
+| Jonarchy | **1.21.5** | NO | `Jonarchy.com` |
+| 0b0t | **1.12.2** | NO | `0b0t.org` |
 | 2b2t | **1.12.2** | NO | `2b2t.org` |
 | 5b5t | **1.12.2** | NO | `5b5t.org` |
 | 6b6t | **1.21** | NO | `join.6b6t.org` |
